@@ -1,0 +1,18 @@
+
+.img{
+    height: 220px;
+    width: 220px;
+}
+.img-1{ 
+    height: 320px;
+    width: 320px;
+
+}
+.frame{
+    display: block;
+    text-align: center;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    line-height: 2;
+}
